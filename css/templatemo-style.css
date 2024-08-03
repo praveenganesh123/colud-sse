@@ -914,3 +914,12 @@ p {
 .link-home:hover{
     background-color: red;
 }
+
+.school-text-home{
+    display: flex;
+    text-align: center;
+
+}
+.school{
+    color: white;
+}
