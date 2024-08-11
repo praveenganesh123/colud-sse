@@ -908,7 +908,8 @@ p {
     background-color: #f44336;
     color: white;
     padding: 5px 10px;
-    border-radius: 20px;
+    border-radius: 10px;
+    
 }
 
 .link-home:hover{
@@ -923,3 +924,5 @@ p {
 .school{
     color: white;
 }
+
+
